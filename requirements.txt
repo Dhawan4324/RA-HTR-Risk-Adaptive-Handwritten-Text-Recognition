@@ -1,0 +1,18 @@
+# Starting dependencies for the RA-HTR Colab experiment.
+# Confirm against imports and package versions in the uploaded notebook.
+transformers
+huggingface-hub
+datasets
+torch
+torchvision
+numpy
+pandas
+Pillow
+opencv-python-headless
+scikit-learn
+matplotlib
+jiwer
+tqdm
+sentencepiece
+safetensors
+accelerate
